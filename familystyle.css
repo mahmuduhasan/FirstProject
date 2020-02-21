@@ -1,0 +1,93 @@
+body{
+    
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.captain-intro a{
+    margin-left: 40%;
+}
+
+.hulk-intro a{
+    margin-left: 40%;
+}
+
+.man-intro a{
+    margin-left: 40%;
+}
+.captain-intro{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+    margin-right: 30px;
+}
+#first{
+    color: chocolate;
+}
+#second{
+    color: darkgoldenrod;
+}
+.captain-intro img{
+    height: 500px;
+    width: 500px;
+    margin-top: 50px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(60deg, chocolate, darkgoldenrod);
+    padding: 5px 10px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 300;
+}
+.hulk-intro{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-right: 30px;
+}
+.hulk-intro img{
+    height: 500px;
+    width: 500px;
+    margin-top: 50px;
+}
+.man-intro{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-right: 30px;
+}
+.man-intro img{
+    height: 500px;
+    width: 500px;
+    margin-top: 50px;
+}
+.back a{
+   margin-left: 48%;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
+.info a{
+    text-decoration: none;
+    background-image: linear-gradient(180deg, chocolate, darkgoldenrod);
+    padding: 5px 10px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 300;
+    margin: 10px 20px 100px 200px;
+}
+.info{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
