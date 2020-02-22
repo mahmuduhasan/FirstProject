@@ -103,3 +103,12 @@ footer p{
     width: 300px;
     padding: 0px 0px 30px 110px;
 }
+
+#beginner:hover{
+    background-color: lightskyblue;
+    transform: scale(1.1);
+}
+#pro:hover{
+    background-color: lightsteelblue;
+    transform: scale(1.1);
+}
